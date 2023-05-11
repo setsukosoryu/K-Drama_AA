@@ -529,4 +529,6 @@ async def next_callback(message: types.Message):
 async def finish_callback(message: types.Message):
     await bot.send_message(message.from_user.id, text=rp.finish_message)
 
-executor.start_polling(dp)
+    
+if __name__ == '__main__':
+    executor.start_polling(dp)
