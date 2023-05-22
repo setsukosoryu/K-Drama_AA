@@ -12,4 +12,7 @@
 * [Что считается "слабой" корреляцией?](https://www.codecamp.ru/blog/what-is-a-weak-correlation/)<br/>
 
 Продукт проекта
-* [Источник картинок и аннотаций](https://www.kinopoisk.ru/)
+* [Источник картинок и аннотаций](https://www.kinopoisk.ru/)<br/>
+
+Презентация
+* [Ссылка на Google диск](https://drive.google.com/drive/folders/1_cPfM4L9umgpg1aBQieKj4lyB36dVU2K?usp=share_link)
