@@ -2,7 +2,7 @@ import bot_markups as mp
 import bot_replies as rp
 from aiogram import Bot, Dispatcher, executor, types
 
-bot = Bot("5911327805:AAGBAcmjU9JMSpgR3ANOnpTDtpUSDIVgDJ8")
+bot = Bot("")
 dp = Dispatcher(bot)
 
 genres_list = []
